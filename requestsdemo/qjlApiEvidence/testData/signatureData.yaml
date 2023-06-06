@@ -1,0 +1,16 @@
+- witnessUrl: https://wit-test.qianjinlian.com
+
+  witnessAuto:
+    Username: qjl-jchain@auth_test
+    Password: qjl-jchain@2023
+
+  witnessData:
+#    packetId: ""
+    hash: 4f8c4bc2110f06dca542df2146cb49ae7ad5b7cf0d5fe89432bbdcca19f445bd
+    userId: null
+    udid: ffffffff-bee9-885b-0000-02023052302
+    signatureTime: 1684476877000
+    signature: 3045022014a70c001545cdc1bc84c17fd8e161b9a71cebd137d725c673a9865f60d4776302210091f4402f46d49ca24a5d874b1211817f95b407c272404ccb6ac14198609bc10b
+    version: 1.1
+#    blockSignature: ""
+    userHash: b40a9e10591f73b37e9fb6276afff002

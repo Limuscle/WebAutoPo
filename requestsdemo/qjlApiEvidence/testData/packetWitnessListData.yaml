@@ -1,0 +1,9 @@
+-
+  witnessUrl: https://wit-test.qianjinlian.com
+
+  witnessAuto:
+    Username: qjl-jchain@auth_test
+    Password: qjl-jchain@2023
+
+  witnessData:
+    packetHash: 93965007cf7091c5e9c9301b70651ec71b36376d02601ea1823c66ff8d38d7f8

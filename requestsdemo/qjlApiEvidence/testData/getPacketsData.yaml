@@ -1,0 +1,9 @@
+-
+  witnessUrl: https://wit-test.qianjinlian.com
+
+  witnessAuto:
+    Username: qjl-jchain@auth_test
+    Password: qjl-jchain@2023
+
+  witnessData:
+    limit: 3

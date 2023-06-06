@@ -1,0 +1,18 @@
+-
+  CochainFunUrl: https://qjl-test.qianjinlian.com
+
+  CochainFunAuto:
+    Username: qjl-jchain@auth_test
+    Password: qjl-jchain@2023
+
+  CochainFundata:
+    txFrom: 32ba881661b9afd734e8c925f5ef188f675a584d9bba441dbe2de254b2c2b2f5
+    txTo: 6a79e39f4e7fb34a21ed832bec7fc7b0
+    txType: 1
+    txTime: 1682215171000
+    dataHash: edsgP9Q+LFKMCQdfN9wZt/tF5JDLXB5W8D22P4fpeOA=
+    version: 1.3.3
+
+  CochainFunHeaders:
+    appId: QJLTEST2023032101
+    sign: MEUCIQCVrUWaBBhxZ9NaBIX+/O/VUFumxyBZFmPQwgx5oWE5pQIgN0Gkghm/1mkT/vTyCASbtmO05+4S+tvhIlyZwOOY72I=

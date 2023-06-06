@@ -1,0 +1,60 @@
+# 这样一组数据就是一个测试用例
+-
+  CochainFunUrl: https://qjl-test.qianjinlian.com
+
+  CochainFunAuto:
+      Username: qjl-jchain@auth_test
+      Password: qjl-jchain@2023
+
+  CochainFundata:
+      txFrom: 7B85B49F290F5AD7EE01AF50FF94BD1E36999C6E14429833DA1ED526D6D07F1C
+      txTo: 7B85B49F290F5AD7EE01AF50FF94BD1E36999C6E14429833DA1ED526D6D07F1C
+      txType: 1
+      txTime: 1685356942000
+      dataHash: A285B1F7DA706A0BB1CB788D107E63164C59818058D263B8F9E7B9858C5891AF
+      dataVersion: 1.3.2
+
+
+  CochainFunHeaders:
+      appId: QJLTEST2023051601
+      sign: 3046022100fddf3a15474633bb158fde9ca0bf4a3fbd3a76f909a288b7168e8b35f43a2c72022100d5f80aa7a87f4e891284220b96488b9447fe0b7cfbf25925d6781a7478c06b38
+
+-
+  CochainFunUrl: https://qjl-test.qianjinlian.com
+
+  CochainFunAuto:
+      Username: qjl-jchain@auth_test1
+      Password: qjl-jchain@2023
+
+  CochainFundata:
+      txFrom: 7B85B49F290F5AD7EE01AF50FF94BD1E36999C6E14429833DA1ED526D6D07F1C
+      txTo: 7B85B49F290F5AD7EE01AF50FF94BD1E36999C6E14429833DA1ED526D6D07F1C
+      txType: 1
+      txTime: 1685356942000
+      dataHash: A285B1F7DA706A0BB1CB788D107E63164C59818058D263B8F9E7B9858C5891AF
+      dataVersion: 1.3.2
+
+
+  CochainFunHeaders:
+      appId: QJLTEST2023051601
+      sign: 3046022100fddf3a15474633bb158fde9ca0bf4a3fbd3a76f909a288b7168e8b35f43a2c72022100d5f80aa7a87f4e891284220b96488b9447fe0b7cfbf25925d6781a7478c06b38
+
+-
+  CochainFunUrl: https://qjl-test.qianjinlian.com
+
+  CochainFunAuto:
+      Username: qjl-jchain@auth_test
+      Password: qjl-jchain@20231
+
+  CochainFundata:
+      txFrom: 7B85B49F290F5AD7EE01AF50FF94BD1E36999C6E14429833DA1ED526D6D07F1C
+      txTo: 7B85B49F290F5AD7EE01AF50FF94BD1E36999C6E14429833DA1ED526D6D07F1C
+      txType: 1
+      txTime: 1685356942000
+      dataHash: A285B1F7DA706A0BB1CB788D107E63164C59818058D263B8F9E7B9858C5891AF
+      dataVersion: 1.3.2
+
+
+  CochainFunHeaders:
+      appId: QJLTEST2023051601
+      sign: 3046022100fddf3a15474633bb158fde9ca0bf4a3fbd3a76f909a288b7168e8b35f43a2c72022100d5f80aa7a87f4e891284220b96488b9447fe0b7cfbf25925d6781a7478c06b38
